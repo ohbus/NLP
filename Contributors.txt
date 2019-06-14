@@ -1,6 +1,8 @@
 Project done by :
 
-Subhrodip Mohanta
-Arkodip Neogi
-Arghya Patra
-Samabrita Kundu
+Subhrodip Mohanta,
+Arkodip Neogi,
+Arghya Patra,
+Samabrita Kundu.
+
+Under supervision of Prof. Koushik Deb of IEM, Kolkata.
